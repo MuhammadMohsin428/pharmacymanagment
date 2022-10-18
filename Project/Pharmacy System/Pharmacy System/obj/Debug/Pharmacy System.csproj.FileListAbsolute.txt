@@ -1,0 +1,46 @@
+D:\Project\Pharmacy System\Pharmacy System\bin\Debug\Pharmacy System.exe.config
+D:\Project\Pharmacy System\Pharmacy System\bin\Debug\Pharmacy System.exe
+D:\Project\Pharmacy System\Pharmacy System\bin\Debug\Pharmacy System.pdb
+D:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.Form1.resources
+D:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.Properties.Resources.resources
+D:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy System.csproj.GenerateResource.cache
+D:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy System.csproj.CoreCompileInputs.cache
+D:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy System.csproj.CopyComplete
+D:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy System.exe
+D:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy System.pdb
+D:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.Administrator.resources
+D:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.AdministratorUC.UC_Dashbord.resources
+D:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.AdministratorUC.UC_AddUsers.resources
+D:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.pharmacist.resources
+D:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy System.csprojAssemblyReference.cache
+D:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.AdministratorUC.View_User.resources
+D:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.AdministratorUC.UC_Profile.resources
+D:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.PharmacistUC.UC_P_dashbord.resources
+D:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.PharmacistUC.UC_P_AddMedicines.resources
+D:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.PharmacistUC.UC_P_View.resources
+D:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.PharmacistUC.UC_Modify.resources
+D:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.PharmacistUC.UC_M_Validity.resources
+D:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.PharmacistUC.UC_Sell_M.resources
+E:\Project\Pharmacy System\Pharmacy System\bin\Debug\Pharmacy System.exe.config
+E:\Project\Pharmacy System\Pharmacy System\bin\Debug\Pharmacy System.exe
+E:\Project\Pharmacy System\Pharmacy System\bin\Debug\Pharmacy System.pdb
+E:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy System.csprojAssemblyReference.cache
+E:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.Administrator.resources
+E:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.AdministratorUC.UC_AddUsers.resources
+E:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.AdministratorUC.UC_Dashbord.resources
+E:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.AdministratorUC.UC_Profile.resources
+E:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.AdministratorUC.View_User.resources
+E:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.Form1.resources
+E:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.pharmacist.resources
+E:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.PharmacistUC.UC_Modify.resources
+E:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.PharmacistUC.UC_M_Validity.resources
+E:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.PharmacistUC.UC_P_AddMedicines.resources
+E:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.PharmacistUC.UC_P_dashbord.resources
+E:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.PharmacistUC.UC_P_View.resources
+E:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.PharmacistUC.UC_Sell_M.resources
+E:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy_System.Properties.Resources.resources
+E:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy System.csproj.GenerateResource.cache
+E:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy System.csproj.CoreCompileInputs.cache
+E:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy System.csproj.CopyComplete
+E:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy System.exe
+E:\Project\Pharmacy System\Pharmacy System\obj\Debug\Pharmacy System.pdb
